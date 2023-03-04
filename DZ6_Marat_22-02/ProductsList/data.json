@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "image": "https://basket-03.wb.ru/vol404/part40417/40417983/images/big/2.jpg",
+      "price": 327,
+      "name": "Sanfor"
+    },
+    {
+      "image": "https://basket-01.wb.ru/vol142/part14257/14257315/images/big/1.jpg",
+      "price": 1589,
+      "name": "Gilette"
+    },
+    {
+      "image": "https://basket-02.wb.ru/vol152/part15250/15250124/images/big/1.jpg",
+      "price": 1403,
+      "name": "Scarlett"
+    },
+    {
+      "image": "https://basket-01.wb.ru/vol138/part13856/13856867/images/big/1.jpg",
+      "price": 459,
+      "name": "The Act express recovery"
+    },
+    {
+      "image": "https://basket-01.wb.ru/vol32/part3235/3235329/images/big/1.jpg",
+      "price": 217,
+      "name": "Nivea"
+    },
+    {
+      "image": "https://basket-05.wb.ru/vol859/part85946/85946769/images/big/2.jpg",
+      "price": 348,
+      "name": "Мой, Рэббит!"
+    },
+    {
+      "image": "https://basket-02.wb.ru/vol173/part17334/17334044/images/big/2.jpg",
+      "price": 208,
+      "name": "FROLHOME"
+    },
+    {
+      "image": "https://basket-02.wb.ru/vol160/part16020/16020241/images/big/1.jpg",
+      "price": 2150,
+      "name": "wildberries"
+    },
+    {
+      "image": "https://basket-02.wb.ru/vol190/part19045/19045113/images/big/1.jpg",
+      "price": 206,
+      "name": "ICHTHYONELLA"
+    },
+    {
+      "image": "https://basket-01.wb.ru/vol30/part3052/3052441/images/big/1.jpg",
+      "price": 363,
+      "name": "Compliment"
+    }
+  ]
+}
